@@ -7,5 +7,5 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=express&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/logo=postgresql&logoColor=#4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
+![PostgreSQL](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=postgresql&logoColor=white)
