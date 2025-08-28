@@ -1,33 +1,3 @@
-```javascript
-#!/usr/bin/env node
-// Building the future, one microservice at a time 🚀
-class FullStackDeveloper {
-    constructor() {
-        this.name = "Samuel Santos";
-        this.role = "Full Stack Developer";
-        this.location = "Londrina, PR - Brazil";
-        this.currentFocus = "Cloud-native systems & AI integration";
-        this.funFact = "Turned a client's dead software into a 90% functional system at 1/10th the cost 💪";
-    }
-    
-    sayHello() {
-        console.log("Thanks for stopping by! Let's build something amazing together 🔥");
-    }
-    
-    getCurrentWork() {
-        return [
-            "🎓 Pursuing Software Engineering at UTFPR",
-            "💼 Full Stack Developer at PwC Brazil",
-            "🤖 Building AI-powered microservices",
-            "☁️ Architecting cloud-native solutions"
-        ];
-    }
-}
-
-const s = new FullStackDeveloper();
-s.sayHello();
-```
-
 ## 🚀 About Me
 Full Stack Developer passionate about building scalable, cloud-native solutions that handle real-world challenges. Currently engineering high-performance systems at PwC Brazil while pursuing my Software Engineering degree. I love turning complex problems into elegant, automated solutions—like the time I revived a client's defunct software and restored 90% functionality at just 10% of the original cost!
 
