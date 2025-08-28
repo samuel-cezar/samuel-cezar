@@ -1,7 +1,3 @@
-# Hey there, I'm Samuel! 👋 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=samuelsantos-dev.samuelsantos-dev)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 ```javascript
 #!/usr/bin/env node
 // Building the future, one microservice at a time 🚀
@@ -28,12 +24,18 @@ class FullStackDeveloper {
     }
 }
 
-const samuel = new FullStackDeveloper();
-samuel.sayHello();
+const s = new FullStackDeveloper();
+s.sayHello();
 ```
 
 ## 🚀 About Me
 Full Stack Developer passionate about building scalable, cloud-native solutions that handle real-world challenges. Currently engineering high-performance systems at PwC Brazil while pursuing my Software Engineering degree. I love turning complex problems into elegant, automated solutions—like the time I revived a client's defunct software and restored 90% functionality at just 10% of the original cost!
+
+## 📫 Let's Connect!
+- 🌐 Portfolio: [samuelsantos.net](https://samuelsantos.net)
+- 📧 Email: email@samuelsantos.net
+- 📍 Based in Londrina, PR - Brazil
+- 🗣️ Languages: Portuguese (Native), English (C2), Spanish (Conversational)
 
 ## 🔧 Technologies & Tools
 
@@ -77,29 +79,6 @@ Full Stack Developer passionate about building scalable, cloud-native solutions 
 ![Retool](https://img.shields.io/badge/Platform-Retool-informational?style=flat&logo=retool&logoColor=white&color=6aa6f8)
 ![Google Apps Script](https://img.shields.io/badge/Automation-Google_Apps_Script-informational?style=flat&logo=google&logoColor=white&color=6aa6f8)
 
-## 💼 Professional Highlights
-
-**🔥 Current Role - PwC Brazil (2024-Present)**
-- Building cloud-native systems supporting 20,000+ concurrent users
-- Developing AI-powered microservices and automation solutions
-- Engineering CI/CD pipelines and comprehensive system integrations
-
-**📊 Previous Impact - Vortx DTVM**
-- Reduced manual reporting time by **90%** through automation
-- Led Excel-to-cloud migration enabling real-time analytics
-- Built serverless microservices and scalable AWS infrastructure
-
-## 🌟 Featured Project
-**Automation Overhaul (2024)** - Pioneered a cost-effective solution that revived a client's defunct software, restoring 90% of core functionalities at just 10% of the original cost using Google Apps Script and GCP microservices.
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=samuelsantos-dev&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📫 Let's Connect!
-- 🌐 Portfolio: [samuelsantos.net](https://samuelsantos.net)
-- 📧 Email: email@samuelsantos.net
-- 📍 Based in Londrina, PR - Brazil
-- 🗣️ Languages: Portuguese (Native), English (C2), Spanish (Conversational)
-
 ---
 *"Turning complex problems into simple, scalable solutions - one commit at a time."* ✨
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=samuelsantos-dev.samuelsantos-dev)
